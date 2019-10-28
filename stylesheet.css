@@ -1,1 +1,6 @@
 /* Beginning of website stylesheet */
+#header {
+width:100%;
+color:blue;
+padding:100px;
+}
